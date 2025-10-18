@@ -1,7 +1,7 @@
-# 🛍️ Exploratory Data Analysis (EDA) of E-commerce Diwali Sales
+# 🛍️ Exploratory Data Analysis (EDA) of Flipkart Diwali Sales
 
 ## Project Overview
-This project involves a comprehensive **Exploratory Data Analysis (EDA)** of an e-commerce platform's Diwali sales data. The primary goal was to process, clean, and analyze customer purchasing trends across various dimensions (gender, age, state, marital status, and product category) to deliver **actionable business intelligence**.
+This project involves a comprehensive **Exploratory Data Analysis (EDA)** of Flipkart's Diwali sales data. The primary goal was to process, clean, and analyze customer purchasing trends across various dimensions (gender, age, state, marital status, and product category) to deliver **actionable business intelligence**.
 
 ## 🛠️ Technology Stack
 * **Language:** Python
