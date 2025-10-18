@@ -29,7 +29,7 @@ The analysis identified the following high-impact segments for targeted marketin
 
 This chart identifies the Married Women (26-35) as the demographic with the highest purchasing power.
 
-![Bar chart showing total sales amount by age group and gender] (https://raw.githubusercontent.com/komaljhalanee/python-diwali-sale-eda/refs/heads/main/asset/highest-spending-demographic.png)
+Bar chart showing total sales amount by age group and gender (https://raw.githubusercontent.com/komaljhalanee/python-diwali-sale-eda/refs/heads/main/asset/highest-spending-demographic.png)
 
 <br>
 
@@ -37,7 +37,7 @@ This chart identifies the Married Women (26-35) as the demographic with the high
 
 This visualization highlights that Food generates the highest total revenue, separating profit from order volume.
 
-![Bar chart showing total revenue by product category] ([URL_OF_YOUR_SECOND_CHART.png](https://raw.githubusercontent.com/komaljhalanee/python-diwali-sale-eda/refs/heads/main/asset/most-ordered-product.png))
+Bar chart showing total revenue by product category (https://raw.githubusercontent.com/komaljhalanee/python-diwali-sale-eda/refs/heads/main/asset/most-ordered-product.png)
 
 <br>
 
@@ -45,4 +45,4 @@ This visualization highlights that Food generates the highest total revenue, sep
 
 A breakdown of transaction volume by state, focusing on the top 10 contributors.
 
-![Bar chart showing total number of orders by state] ([URL_OF_YOUR_THIRD_CHART.png](https://raw.githubusercontent.com/komaljhalanee/python-diwali-sale-eda/refs/heads/main/asset/state-wise-total-orders.png))
+Bar chart showing total number of orders by state (https://raw.githubusercontent.com/komaljhalanee/python-diwali-sale-eda/refs/heads/main/asset/state-wise-total-orders.png)
